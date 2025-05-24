@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋<br />
 
-🌱 I’m currently learning C at 42 Berlin
-🔭 Learning something new everyday
-📫 How to reach me: foteinimavrikaki@gmail.com
+🌱 I’m currently learning C at 42 Berlin<br />
+🔭 Learning something new everyday<br />
+📫 How to reach me: foteinimavrikaki@gmail.com<br />
 <!--
 **foteini-mavrikaki/foteini-mavrikaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
